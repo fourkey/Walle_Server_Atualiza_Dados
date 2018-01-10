@@ -1,0 +1,74 @@
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe.config
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\bin\Debug\Walle_Client_Service.pdb
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\bin\Debug\Walle_Client_Service.xml
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\bin\Debug\MySql.Data.dll
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbprojResolveAssemblyReference.cache
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\obj\Debug\Walle_Client_Service.Form1.resources
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\obj\Debug\Walle_Client_Service.Resources.resources
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.GenerateResource.Cache
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\obj\Debug\Walle_Client_Service.exe
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\obj\Debug\Walle_Client_Service.xml
+C:\Users\Gustavo\AppData\Local\Temporary Projects\Walle_Client_Service\obj\Debug\Walle_Client_Service.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe.config
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.exe
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.xml
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.xml
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\bin\Debug\MySql.Data.dll
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.ResolveComReference.cache
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Form1.resources
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Resources.resources
+C:\Users\Gustavo\Documents\Visual Studio 2012\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.GenerateResource.Cache
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe.config
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.ResolveComReference.cache
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.exe
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.xml
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.pdb
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.pdb
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.xml
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\bin\Debug\MySql.Data.dll
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbprojResolveAssemblyReference.cache
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Resources.resources
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.GenerateResource.Cache
+C:\Users\gusta\Projetos\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Frm_Inicio.resources
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe.config
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.pdb
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.xml
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.ResolveComReference.cache
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Frm_Inicio.resources
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Resources.resources
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.GenerateResource.Cache
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.exe
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.xml
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.pdb
+C:\Users\fourkey\Documents\Visual Studio 2017\Projects\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbprojResolveAssemblyReference.cache
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe.config
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.ResolveComReference.cache
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.exe
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.xml
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.pdb
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.pdb
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.xml
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbprojResolveAssemblyReference.cache
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Frm_Inicio.resources
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Resources.resources
+C:\Users\gusta\Projetos\Serv\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.GenerateResource.Cache
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe.config
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.ResolveComReference.cache
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.exe
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.xml
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.pdb
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.pdb
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.xml
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbprojResolveAssemblyReference.cache
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Frm_Inicio.resources
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Resources.resources
+C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.GenerateResource.Cache
