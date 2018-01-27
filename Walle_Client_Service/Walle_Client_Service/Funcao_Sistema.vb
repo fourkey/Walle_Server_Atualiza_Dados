@@ -255,6 +255,7 @@ Public Class Funcao_Sistema
         Dim Comando As New MySqlCommand
         Dim Sql As New StringBuilder
         Dim Conexao As New MySqlConnection
+        Dim ListaDeletar As New ArrayList
         Dim Cont As Integer = 0
         Dim StringEnvio As String = ""
         Dim Inc As String
@@ -320,6 +321,12 @@ Public Class Funcao_Sistema
                 Lista.Item(i).Local = Mid(Lista.Item(i).Local, 1, 700)
                 Lista.Item(i).Chave = Replace(Lista.Item(i).Chave, "'", "")
 
+                Dim Tempo As String
+                If "".Equals(Lista.Item(i).Tempo) Then
+                    Tempo = 0 : Else
+                    Tempo = Lista.Item(i).Tempo
+                End If
+
                 StringEnvio = StringEnvio & "(" & CodCli & ", '" & Lista.Item(i).UsuarioDeRede & "','" _
                                             & Lista.Item(i).Processo & "','" _
                                             & Lista.Item(i).Nome & "','" _
@@ -327,27 +334,37 @@ Public Class Funcao_Sistema
                                             & Lista.Item(i).Local & "','" _
                                             & Lista.Item(i).HoraIni.ToString("yyyy-MM-dd HH:mm:ss") & "','" _
                                             & Lista.Item(i).HoraFim.ToString("yyyy-MM-dd HH:mm:ss") & "'," _
-                                            & Lista.Item(i).Tempo & ", '" & Lista.Item(i).Endereco & "', '" & Lista.Item(i).Chave & "', '" _
+                                            & Tempo.ToString() & ", '" & Lista.Item(i).Endereco & "', '" & Lista.Item(i).Chave & "', '" _
                                             & Lista.Item(i).Versao & "', '" & Lista.Item(i).Rastrear & "'), "
 
                 Cont = Cont + 1
+
+                    ListaDeletar.Add(Lista.Item(i))
 
                 If Cont > 1000 Then
 
                     Try
 
-                        StringEnvio = Sql.ToString & Mid(StringEnvio, 1, StringEnvio.Length - 2)
-                        Comando.CommandText = StringEnvio
+                        If "".ToString().Equals(StringEnvio) = False Then
+
+                            StringEnvio = Sql.ToString & Mid(StringEnvio, 1, StringEnvio.Length - 2)
+                            Comando.CommandText = StringEnvio
+
+
+
+                            Comando.ExecuteNonQuery()
+
+
+                        End If
 
                         StringEnvio = ""
-
-                        Comando.ExecuteNonQuery()
-
                         Cont = 0
 
                     Catch ex As Exception
 
+                        M.Adicionar_Dados_list("Erro ao executar a query: " & StringEnvio, My.Forms.Frm_Inicio.lv_processo)
                         M.Adicionar_Dados_list("Erro: " & ex.Message, My.Forms.Frm_Inicio.lv_processo)
+                        StringEnvio = ""
 
                     End Try
 
@@ -355,7 +372,7 @@ Public Class Funcao_Sistema
 
             End If
 
-            Frm_Inicio.Progress_Bar.Value = Valor
+                Frm_Inicio.Progress_Bar.Value = Valor
             Valor = Valor + Contando
             Application.DoEvents()
 
@@ -406,6 +423,7 @@ Public Class Funcao_Sistema
 
         Next
 
+        ListaDeletar.Clear()
         ListaDeArquivos.Clear()
         Frm_Inicio.ListaDeArquivosNomes.Clear()
 
@@ -660,7 +678,7 @@ Public Class Funcao_Sistema
     Public Sub Salvar_Log()
 
         'Nome do arquivo que será criado
-        Dim NomeArquivo As String = "C:\Fourkey\Admin\Log_Walle_Client_Service.txt"
+        Dim NomeArquivo As String = "C:\Fourkey\Admin\" & Format(Now, "YYYY_MM_DD") & "_Log_Walle_Client_Service.txt"
 
 
         Try

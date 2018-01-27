@@ -72,3 +72,16 @@ C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle
 C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Frm_Inicio.resources
 C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Resources.resources
 C:\Users\gusta\Desktop\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe.config
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.exe
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.pdb
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\bin\Debug\Walle_Client_Service.xml
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Frm_Inicio.resources
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.Resources.resources
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.exe
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.xml
+C:\Users\Administrator\Documents\Serv\Walle_Server_Atualiza_Dados\Walle_Client_Service\Walle_Client_Service\obj\Debug\Walle_Client_Service.pdb
